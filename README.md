@@ -120,6 +120,7 @@ Sistema Full Stack para avaliação de veículos utilizando:
 * Deploy na Render
 
 🔗 https://projeto-final-analise-noite.onrender.com/
+🔗 https://calculeopreco.lovable.app/
 
 ---
 
